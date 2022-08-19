@@ -26,25 +26,26 @@ Please read carefully the following task list and mark the checkboxes as you com
 
 ### Font
 
-	- [ ] Arial, Times New Roman or Calibri (12). Karla, Muli or Amiri (Flow CV)
+- [ ] Arial, Times New Roman or Calibri (12). Karla, Muli or Amiri (Flow CV)
 
-	- [ ] Name and titles can be larger 
+- [ ] Name and titles can be larger 
 
-	- [ ] Margins*
+- [ ] Margins*
 
 - [ ] **Full name in the top center of the page**
 
-	- [ ] Add your name and last name
-	- [ ]  *Job Title: Software Developer * Add it below or at the side of your name  
-	- [ ] *Address *
-	- [ ] Add the country and the state you live in (no more than this) 
-	- [ ] **Github Link**
+- [ ] Add your name and last name
+- [ ]  *Job Title: Software Developer * Add it below or at the side of your name  
+- [ ] *Address *
+- [ ] Add the country and the state you live in (no more than this) 
+- [ ] **Github Link**
 
-	- [ ] **LinkedIn Link**(you can customize your LinkedIn URL, check how to do it  [here](https://www.linkedin.com/help/linkedin/answer/a542685/manage-your-public-profile-url?lang=en) ) * **Email**(avoid non-professional email addresses) * *Phone number *
+- [ ] **LinkedIn Link**(you can customize your LinkedIn URL, check how to do it  [here](https://www.linkedin.com/help/linkedin/answer/a542685/manage-your-public-profile-url?lang=en) ) * **Email**(avoid non-professional email addresses) * *Phone number *
 
-	- [ ]  **Describe yourself briefly**
+- [ ]  **Describe yourself briefly**
+
 No longer than 4 sentences. Talk about who you are, your skills and what you can do with those skills. Treat the“profile” section as a pitch about yourself, remember you are a Software Developer
-	- [ ] **Describe your background briefly** What are you interested in, your previous experience
+- [ ] **Describe your background briefly** What are you interested in, your previous experience
 	
 - [ ] **Skills**
 Mention the technologies you know and describe what you can do with that knowledge briefly. 
