@@ -1,19 +1,12 @@
 {
 	"slug" : "build-your-full-stack-developer-resume",
 	"title" : "Build Your Full Stack Developer Resume",
-	"preview": "https://path/to/image.png",
-	"status": "draft",
+	"preview": "https://github.com/4GeeksAcademy/build-your-full-stack-developer-resume/blob/main/preview.png?raw=trueg",
+	"status": "published",
 	"translations": ["us"],
-	"technologies": ["some-technology"],
+	"technologies": ["resume"],
 	"difficulty": "beginner",
-	"syntax": null,
-	"duration" : 2,
-	"description" : "Describe your proyect with 250 chars max"
+	"syntax": "markdown",
+	"duration" : 3,
+	"description" : "Build a Full Stack Developer Resume to showcase your skills, stand out from the crowd and land interviews"
 }
-
-"translations": ["us"],	
-"technologies": ["markdown", "resume", "software-developer-resume"],	
-"difficulty": "beginner",	
-"syntax": "markdown",	
-"duration" : 3, 	
-"description" : "Build a Software Developer Resume to showcase your skills, stand out from the crowd and land interviews” 
