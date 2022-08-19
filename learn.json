@@ -2,7 +2,7 @@
 	"slug" : "build-your-full-stack-developer-resume",
 	"title" : "Build Your Full Stack Developer Resume",
 	"preview": "https://github.com/4GeeksAcademy/build-your-full-stack-developer-resume/blob/main/preview.png?raw=trueg",
-	"status": "published",
+	"status": "draft",
 	"translations": ["us"],
 	"technologies": ["resume"],
 	"difficulty": "beginner",
