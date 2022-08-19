@@ -4,7 +4,7 @@
 	"preview": "https://github.com/4GeeksAcademy/build-your-full-stack-developer-resume/blob/main/preview.png?raw=trueg",
 	"status": "draft",
 	"translations": ["us"],
-	"technologies": ["resume"],
+	"technologies": ["resume-building"],
 	"difficulty": "beginner",
 	"syntax": "markdown",
 	"duration" : 3,
