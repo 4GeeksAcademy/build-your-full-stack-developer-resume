@@ -6,9 +6,9 @@ The resume is by far the most important document that you need when applying to 
 
 Please read carefully the following task list and mark the checkboxes as you complete:
 
-- [ ] [] Read the   [Resume section](https://4geeksacademy.notion.site/About-your-resume-af7f45a072154f459be8909b725241b3)  of the GeekForce page.
+- [ ] Read the   [Resume section](https://4geeksacademy.notion.site/About-your-resume-af7f45a072154f459be8909b725241b3)  of the GeekForce page.
 
-- [ ] [] Check these  [2 resume templates ](https://drive.google.com/drive/folders/1YHKHoAqF4o8dk_1Fw5fLgtRvftEiTUun?usp=sharing) 
+- [ ] Check these  [2 resume templates ](https://drive.google.com/drive/folders/1YHKHoAqF4o8dk_1Fw5fLgtRvftEiTUun?usp=sharing) 
 
 - [ ] Get into  [flowcv.io](https://app.flowcv.com/) , create an account. Make sure to save your username and password
 
