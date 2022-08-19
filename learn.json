@@ -1,6 +1,6 @@
 {
-	"slug" : "sample-slug",
-	"title" : "Sample Project",
+	"slug" : "build-your-full-stack-developer-resume",
+	"title" : "Build Your Full Stack Developer Resume",
 	"preview": "https://path/to/image.png",
 	"status": "draft",
 	"translations": ["us"],
@@ -10,3 +10,10 @@
 	"duration" : 2,
 	"description" : "Describe your proyect with 250 chars max"
 }
+
+"translations": ["us"],	
+"technologies": ["markdown", "resume", "software-developer-resume"],	
+"difficulty": "beginner",	
+"syntax": "markdown",	
+"duration" : 3, 	
+"description" : "Build a Software Developer Resume to showcase your skills, stand out from the crowd and land interviews” 
