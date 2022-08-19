@@ -1,0 +1,12 @@
+{
+	"slug" : "sample-slug",
+	"title" : "Sample Project",
+	"preview": "https://path/to/image.png",
+	"status": "draft",
+	"translations": ["us"],
+	"technologies": ["some-technology"],
+	"difficulty": "beginner",
+	"syntax": null,
+	"duration" : 2,
+	"description" : "Describe your proyect with 250 chars max"
+}
