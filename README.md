@@ -4,7 +4,7 @@ The resume is by far the most important document that you need when applying to 
 
 ## 📝 Instructions to build your resume
 
-Please read carefully the following task list and mark the checkboxes as you complete:
+Please `read carefully` the following task list and mark the checkboxes as you complete:
 
 - [ ] Read the   [Resume section](https://4geeksacademy.notion.site/About-your-resume-af7f45a072154f459be8909b725241b3)  of the GeekForce page.
 
@@ -30,43 +30,39 @@ Please read carefully the following task list and mark the checkboxes as you com
 
 - [ ] Name and titles can be larger 
 
-- [ ] Margins*
+- [ ] Margins
 
-- [ ] **Full name in the top center of the page**
+- [ ] Full name in the top center of the page
 
 - [ ] Add your name and last name
-- [ ]  *Job Title: Software Developer * Add it below or at the side of your name  
-- [ ] *Address *
+- [ ] Job Title: Software Developer - Add it below or at the side of your name  
+- [ ] Address 
 - [ ] Add the country and the state you live in (no more than this) 
-- [ ] **Github Link**
+- [ ] Github Link
 
-- [ ] **LinkedIn Link**(you can customize your LinkedIn URL, check how to do it  [here](https://www.linkedin.com/help/linkedin/answer/a542685/manage-your-public-profile-url?lang=en) ) * **Email**(avoid non-professional email addresses) * *Phone number *
+- [ ] **LinkedIn Link** (you can customize your LinkedIn URL, check how to do it  [here](https://www.linkedin.com/help/linkedin/answer/a542685/manage-your-public-profile-url?lang=en)) Email(avoid non-professional email addresses) and Phone number
 
 - [ ]  **Describe yourself briefly**
 
-No longer than 4 sentences. Talk about who you are, your skills and what you can do with those skills. Treat the“profile” section as a pitch about yourself, remember you are a Software Developer
+No longer than 4 sentences. Talk about who you are, your skills and what you can do with those skills. Treat the “profile” section as a pitch about yourself, remember you are a Software Developer
 - [ ] **Describe your background briefly** What are you interested in, your previous experience
-	
-- [ ] **Skills**
-Mention the technologies you know and describe what you can do with that knowledge briefly. 
+- [ ] **Skills** Mention the technologies you know and describe what you can do with that knowledge briefly. 
 
 ### Projects
 
-- [ ]   **Project title**
+- [ ] **Project title**
 Example:  JobBots, Job Search App
 
 * **Time frame**
 - [ ] Mention the years or months you worked on that project
 - [ ] Brief description what the project is about,  what you did and the functionalities 
-- [ ]  Mention de main technologies you used to build the project 
+- [ ] Mention de main technologies you used to build the project 
 - [ ] If possible, add the link so recruiters can check out the project directly
 
-
 ### Professional experience
-
 * **From earliest to oldest**
 - [ ] Mention your work experience from earliest to oldest (no more than 3)
-- [ ] Job title - Name of the company*
+- [ ] Job title - Name of the company
 - [ ] Name the position you had and the name of the company
 _Example: Teacher Assistant - 4Geeks Academy_
 * **Time frame**
@@ -78,9 +74,7 @@ _Example: Teacher Assistant - 4Geeks Academy_
 - [ ] Describe what you did briefly so recruiters have an idea of what you can do
 - [ ] At least mention two measurable impacts or accomplishments per role: Focus more on the metrics that you improve and less on the responsibilities of your role
 - [ ] Try to keep bullets to 1 to 2 lines long 
-
 - [ ] Most impactful bullets first for each job
-
  **If you were promoted**
 - [ ] Add the job position you were promoted and the main duties 
 
@@ -91,22 +85,16 @@ _Example: Teacher Assistant - 4Geeks Academy_
 
 * **Time frame**
 - [ ] Add the start and end date of your degree 
-* *Certifications *
-- [ ] Add the certified courses you have done (Ex: Photoshop) 
-(If you have any add it in the same section) 
+* **Certifications**
+- [ ] Add the certified courses you have done _Ex: Photoshop_ (If you have any add it in the same section) 
 * **Advanced courses** 
 - [ ] If you took advanced courses related to tech, you can mention them
 
 ### Technologies
 - [ ] Mention the programming languages, the technologies, and tools you know
-- [ ]  When you add the technologies in the Skills section, add them in different entries 
+- [ ] When you add the technologies in the Skills section, add them in different entries 
 
 ### Languages 
-- [ ] *Add the languages you speak *
-Example: English - Native 
-Example: Spanish - Fluent
-
-
-
-
-
+- [ ] **Add the languages you speak**
+> Example: English - Native  
+> Example: Spanish - Fluent
