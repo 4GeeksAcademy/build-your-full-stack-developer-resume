@@ -14,8 +14,6 @@ Please read carefully the following task list and mark the checkboxes as you com
 
 - [ ] Carefully read  [this lesson](https://content.breatheco.de/en/lesson/making-an-amazing-resume)  and start building your resume by applying the recommendations
 
-- [ ] Check   [these templates](https://drive.google.com/drive/folders/1YHKHoAqF4o8dk_1Fw5fLgtRvftEiTUun?usp=sharing) , use them as reference to build your resume
-
 - [ ] The layout should be readable from top to bottom, NO columns 
 
 - [ ] 1 page max (avoid clutter and adding non relevant information)
@@ -30,17 +28,18 @@ Please read carefully the following task list and mark the checkboxes as you com
 
 - [ ] Name and titles can be larger 
 
-- [ ] Margins*
+- [ ] Margins
 
 - [ ] **Full name in the top center of the page**
 
 - [ ] Add your name and last name
-- [ ]  *Job Title: Software Developer * Add it below or at the side of your name  
-- [ ] *Address *
-- [ ] Add the country and the state you live in (no more than this) 
+- [ ]  **Job Title: Software Developer** Add it below or at the side of your name  
+- [ ] **Address** Add the country and the state you live in (no more than this) 
 - [ ] **Github Link**
 
-- [ ] **LinkedIn Link**(you can customize your LinkedIn URL, check how to do it  [here](https://www.linkedin.com/help/linkedin/answer/a542685/manage-your-public-profile-url?lang=en) ) * **Email**(avoid non-professional email addresses) * *Phone number *
+- [ ] **LinkedIn Link**(you can customize your LinkedIn URL, check how to do it  [here](https://www.linkedin.com/help/linkedin/answer/a542685/manage-your-public-profile-url?lang=en) )  
+- [ ] **Email**(avoid non-professional email addresses)  
+- [ ] **Phone number**
 
 - [ ]  **Describe yourself briefly**
 
@@ -66,7 +65,7 @@ Example:  JobBots, Job Search App
 
 * **From earliest to oldest**
 - [ ] Mention your work experience from earliest to oldest (no more than 3)
-- [ ] Job title - Name of the company*
+- [ ] Job title - Name of the company
 - [ ] Name the position you had and the name of the company
 _Example: Teacher Assistant - 4Geeks Academy_
 * **Time frame**
@@ -91,7 +90,7 @@ _Example: Teacher Assistant - 4Geeks Academy_
 
 * **Time frame**
 - [ ] Add the start and end date of your degree 
-* *Certifications *
+* **Certifications**
 - [ ] Add the certified courses you have done (Ex: Photoshop) 
 (If you have any add it in the same section) 
 * **Advanced courses** 
@@ -102,7 +101,7 @@ _Example: Teacher Assistant - 4Geeks Academy_
 - [ ]  When you add the technologies in the Skills section, add them in different entries 
 
 ### Languages 
-- [ ] *Add the languages you speak *
+- [ ] **Add the languages you speak**
 Example: English - Native 
 Example: Spanish - Fluent
 
