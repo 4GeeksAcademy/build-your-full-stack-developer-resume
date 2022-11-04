@@ -9,5 +9,9 @@
 	"syntax": "markdown",
 	"duration" : 3,
     "projectType": "project",
-	"description" : "Build a Full Stack Developer Resume to showcase your skills, stand out from the crowd and land interviews"
+	"description" : "Build a Full Stack Developer Resume to showcase your skills, stand out from the crowd and land interviews",
+	"delivery": {
+		"instructions": "Please	upload your finished resume as a PDF file",
+		"formats": ["application/pdf"]
+	}
 }
