@@ -14,6 +14,9 @@ Please read carefully the following task list and mark the checkboxes as you com
 
 - [ ] Carefully read [this lesson](https://content.breatheco.de/en/lesson/making-an-amazing-resume) and start building your resume by applying the recommendations.
 
+
+### Layout
+
 - [ ] The layout should be readable from top to bottom, NO columns.
 
 - [ ] 1 page max (avoid clutter and adding non relevant information).
@@ -30,6 +33,8 @@ Please read carefully the following task list and mark the checkboxes as you com
 
 - [ ] Margins.
 
+### Contact Section
+
 - [ ] **Full name in the top center of the page**
 
 - [ ] Add your name and last name.
@@ -37,6 +42,9 @@ Please read carefully the following task list and mark the checkboxes as you com
 - [ ] **Job Title: Software Developer** Add it below or at the side of your name.
   
 - [ ] **Address** Add the country and the state you live in (no more than this).
+
+
+### Profile 
 
 - [ ] **Github Link**.
 
@@ -52,7 +60,7 @@ No longer than 4 sentences. Talk about who you are, your skills and what you can
 
 - [ ] **Describe your background briefly** What are you interested in, your previous experience.
 	
-- [ ] **Skills**. Mention the technologies you know and describe what you can do with that knowledge briefly. 
+- [ ] **Skills**: Mention the technologies you know and describe what you can do with that knowledge briefly. 
 
 ### Projects
 
