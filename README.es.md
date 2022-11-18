@@ -6,13 +6,15 @@ El currículum es, por mucho, el documento más importante que necesitas al soli
 
 Lee atentamente la siguiente lista de tareas y marca las casillas de verificación a medida que las completes:
 
-- [ ] Lee la [sección de currículum](https://4geeksacademy.notion.site/About-your-resume-af7f45a072154f459be8909b725241b3) de la página de GeekForce.
+- [ ] Lee la [sección de currículum](https://4geeksacademy.notion.site/Resume-CV-0d1ebbae7a6041aebcbacf5c8fd5c141) de la página de GeekForce.
 
-- [ ] Verifica estas [2 plantillas de currículum](https://drive.google.com/drive/folders/1YHKHoAqF4o8dk_1Fw5fLgtRvftEiTUun?usp=sharing).
+- [ ] Verifica estas [2 plantillas de currículum](https://4geeksacademy.notion.site/Resume-Templates-CV-Templates-7e72180d5f274276b7ee5614b1df86a2).
 
 - [ ] Entra en [flowcv.io](https://app.flowcv.com/), crea una cuenta. Asegúrate de guardar tu nombre de usuario y contraseña.
  
-- [ ] Lee atentamente [esta lección](https://content.breatheco.de/en/lesson/making-an-amazing-resume) y comienza a crear tu currículum aplicando las recomendaciones.
+- [ ] Lee atentamente [esta lección](https://4geeks.com/es/lesson/making-an-amazing-resume-es) y comienza a crear tu currículum aplicando las recomendaciones.
+
+### Diseño
 
 - [ ] El diseño debe ser legible de arriba a abajo, SIN columnas.
 
@@ -30,9 +32,9 @@ Lee atentamente la siguiente lista de tareas y marca las casillas de verificaci�
 
 - [ ] Margenes.
 
-- [ ] **Nombre completo en la parte superior central de la página**.
+### Información de Contacto
 
-- [ ] Agrega tu nombre y apellido.
+- [ ] **Nombre completo en la parte superior central de la página** - Agrega tu nombre y apellido.
 
 - [ ] **Título del trabajo: Desarrollador de Software** Agrégalo debajo o al lado de tu nombre.
 
@@ -46,9 +48,7 @@ Lee atentamente la siguiente lista de tareas y marca las casillas de verificaci�
 
 - [ ] **Número Telefónico**.
 
-- [ ] **Descríbete brevemente**.
-
-No más de 4 oraciones. Habla sobre quién eres, tus habilidades y lo que puedes hacer con esas habilidades. Trata la sección de "perfil" como un discurso sobre ti, recuerda que eres un Desarrollador de Software.
+- [ ] **Descríbete brevemente** - No más de 4 oraciones. Habla sobre quién eres, tus habilidades y lo que puedes hacer con esas habilidades. Trata la sección de "perfil" como un discurso sobre ti, recuerda que eres un Desarrollador de Software.
 
 - [ ] **Describe brevemente tus antecedentes** Qué te interesa, tu experiencia previa.
 	
@@ -58,9 +58,7 @@ No más de 4 oraciones. Habla sobre quién eres, tus habilidades y lo que puedes
 
 - [ ] **Título del proyecto** Ejemplo: JobBots, aplicación de búsqueda de empleo.
 
-* **Periodo de tiempo**
-
-- [ ] Menciona los años o meses que trabajaste en ese proyecto.
+- [ ] **Periodo de tiempo** - Menciona los años o meses que trabajaste en ese proyecto.
 
 - [ ] Breve descripción de qué se trata el proyecto, qué hiciste y las funcionalidades.
 
@@ -70,31 +68,25 @@ No más de 4 oraciones. Habla sobre quién eres, tus habilidades y lo que puedes
 
 ### Experiencia profesional
 
-* **De más nuevo a más antiguo**
+- [ ] **De más nuevo a más antiguo** - Menciona tu experiencia laboral de lo más nuevo a lo más antiguo (no más de 3).
 
-- [ ] Menciona tu experiencia laboral de lo más nuevo a lo más antiguo (no más de 3).
+- [ ] **Cargo** - Nombra el cargo que tuviste y el nombre de la empresa.
 
-- [ ] Cargo - Nombre de la empresa.
+> _Ejemplo: Asistente de profesor - 4Geeks Academy_
 
-- [ ] Nombra el cargo que tuviste y el nombre de la empresa.
+- [ ] **Periodo de tiempo** - Añade los años o meses que estuviste empleado en la empresa.
 
-_Ejemplo: Asistente de profesor - 4Geeks Academy_
+- [ ] **Deberes de trabajo**
 
-* **Periodo de tiempo**
+* Menciona tus deberes laborales en viñetas.
 
-- [ ] Añade los años o meses que estuviste empleado en la empresa.
+* Describe brevemente lo que hiciste para que los reclutadores tengan una idea de lo que puedes hacer.
 
-### Deberes de trabajo
+* Menciona al menos dos impactos o logros medibles por función: concéntrate más en las métricas que mejoras y menos en las responsabilidades de tu función.
 
-- [ ] Menciona tus deberes laborales en viñetas.
+* Trata de mantener las viñetas de 1 a 2 líneas de largo.
 
-- [ ] Describe brevemente lo que hiciste para que los reclutadores tengan una idea de lo que puedes hacer.
-
-- [ ] Menciona al menos dos impactos o logros medibles por función: concéntrate más en las métricas que mejoras y menos en las responsabilidades de tu función.
-
-- [ ] Trata de mantener las viñetas de 1 a 2 líneas de largo.
-
-- [ ] Las viñetas más impactantes primero para cada trabajo.
+* Las viñetas más impactantes primero para cada trabajo.
 
  **Si te ascendieron**
 
@@ -102,27 +94,23 @@ _Ejemplo: Asistente de profesor - 4Geeks Academy_
 
 ### Educación 
 
-- [ ] Título - Nombre de la institución
+- [ ] **Título** - Nombre de la institución
 
-- [ ] Menciona el tipo de título que obtuviste (asociado, licenciatura, etc.) y el nombre de la institución.
+* Menciona el tipo de título que obtuviste (asociado, licenciatura, etc.) y el nombre de la institución.
 
-- [ ] Agrega cursos relevantes (álgebra, matemáticas, informática).
+* Agrega cursos relevantes (álgebra, matemáticas, informática).
 
-* **Periodo de Tiempo**
+- [ ] **Periodo de Tiempo** - Añade la fecha de inicio y finalización de tu carrera.
 
-- [ ] Añade la fecha de inicio y finalización de tu carrera.
+- [ ] **Certificaciones**
 
-* **Certifications**
-
-- [ ] Agrega los cursos certificados que hayas realizado (Ej: Photoshop).
+* Agrega los cursos certificados que hayas realizado (Ej: Photoshop).
 
 (Si tienes alguno añádelo en la misma sección).
 
-* **Cursos avanzados** 
+- [ ] **Cursos avanzados** - Si tomaste cursos avanzados relacionados con la tecnología, puedes mencionarlos.
 
-- [ ] Si tomaste cursos avanzados relacionados con la tecnología, puedes mencionarlos.
-
-### Tecnología
+### Tecnologías
 
 - [ ] Menciona los lenguajes de programación, las tecnologías y las herramientas que conoces.
 
@@ -132,8 +120,8 @@ _Ejemplo: Asistente de profesor - 4Geeks Academy_
 
 - [ ] **Añade el lenguaje que hablas**
 
-Ejemplo: Inglés - Nativo
-Ejemplo: Español - Fluido
+> _Ejemplo: Inglés - Nativo_
+> _Ejemplo: Español - Fluido_
 
 
 
