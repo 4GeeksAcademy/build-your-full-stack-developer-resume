@@ -44,7 +44,7 @@ Lee atentamente la siguiente lista de tareas y marca las casillas de verificaci�
 
 - [ ] **Link de Github**.
 
-- [ ] **LinkedIn Link** - (puedes personalizar tu URL de LinkedIn, consulta cómo hacerlo [aquí](https://www.linkedin.com/help/linkedin/answer/a542685/manage-your-public-profile-url?lang=en) )  
+- [ ] **LinkedIn Link** - (puedes personalizar tu URL de LinkedIn, consulta cómo hacerlo [aquí](https://www.linkedin.com/help/linkedin/answer/a542685/manage-your-public-profile-url?lang=en) ).  
 
 - [ ] **Correo electrónico** (evita direcciones de correo electrónico no profesionales).
 
@@ -52,7 +52,7 @@ Lee atentamente la siguiente lista de tareas y marca las casillas de verificaci�
 
 - [ ] **Descríbete brevemente** - No más de 4 oraciones. Habla sobre quién eres, tus habilidades y lo que puedes hacer con esas habilidades. Trata la sección de "perfil" como un discurso sobre ti, recuerda que eres un Desarrollador de Software.
 
-- [ ] **Describe brevemente tus antecedentes** - Qué te interesa, tu experiencia previa.
+- [ ] **Describe brevemente tus antecedentes** - ¿Qué te interesa?, tu experiencia previa.
 	
 - [ ] **Habilidades** - Menciona las tecnologías que conoces y describe brevemente lo que puedes hacer con ese conocimiento. 
 
@@ -60,13 +60,15 @@ Lee atentamente la siguiente lista de tareas y marca las casillas de verificaci�
 
 - [ ] **Título del proyecto** - Ejemplo: JobBots, aplicación de búsqueda de empleo.
 
-- [ ] **Periodo de tiempo** - Menciona los años o meses que trabajaste en ese proyecto.
+- [ ] **Periodo de tiempo**
+* Menciona los años o meses que trabajaste en ese proyecto.
+* Suma los años o meses que estuviste empleado en la empresa.
 
-- [ ] Breve descripción de qué se trata el proyecto, qué hiciste y las funcionalidades.
+- [ ] **Breve descripción** de qué se trata el proyecto, qué hiciste y las funcionalidades.
 
-- [ ] Mención de las principales tecnologías que utilizaste para construir el proyecto.
+- [ ] Mención de las **principales tecnologías** que utilizaste para construir el proyecto.
 
-- [ ] Si es posible, agrega el enlace para que los reclutadores puedan ver el proyecto directamente.
+- [ ] Si es posible, **agrega el enlace** para que los reclutadores puedan ver el proyecto directamente.
 
 ### Experiencia profesional
 
@@ -75,8 +77,6 @@ Lee atentamente la siguiente lista de tareas y marca las casillas de verificaci�
 - [ ] **Cargo** - Nombra el cargo que tuviste y el nombre de la empresa.
 
 > _Ejemplo: Asistente de profesor - 4Geeks Academy_
-
-- [ ] **Periodo de tiempo** - Añade los años o meses que estuviste empleado en la empresa.
 
 - [ ] **Deberes de trabajo**
 
@@ -96,21 +96,17 @@ Lee atentamente la siguiente lista de tareas y marca las casillas de verificaci�
 
 ### Educación 
 
-- [ ] **Título** - Nombre de la institución
+- [ ] Título
+* Nombre de la institución.
+* Menciona el tipo de título que obtuviste(asociado, bachiller, etc.) y el nombre de la institución.
 
-* Menciona el tipo de título que obtuviste (asociado, licenciatura, etc.) y el nombre de la institución.
+- [ ] Agrega cursos relevantes (álgebra, matemáticas, informática).
 
-* Agrega cursos relevantes (álgebra, matemáticas, informática).
+- [ ] Agrega los cursos certificados que hayas realizado (Ej: Photoshop).
 
-- [ ] **Periodo de Tiempo** - Añade la fecha de inicio y finalización de tu carrera.
+- [ ] Si tomaste cursos avanzados relacionados con la tecnología, puedes mencionarlos.
 
-- [ ] **Certificaciones**
-
-* Agrega los cursos certificados que hayas realizado (Ej: Photoshop).
-
-(Si tienes alguno añádelo en la misma sección).
-
-- [ ] **Cursos avanzados** - Si tomaste cursos avanzados relacionados con la tecnología, puedes mencionarlos.
+- [ ] **Período de tiempo** - Agrega la fecha de inicio y finalización de tu carrera.
 
 ### Tecnologías
 

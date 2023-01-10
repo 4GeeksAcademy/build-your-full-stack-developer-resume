@@ -8,9 +8,9 @@ The resume is by far the most important document that you need when applying for
 
 Please read carefully the following task list and mark the checkboxes as you complete:
 
-- [ ] Read the [Resume section](https://www.notion.so/4geeksacademy/Resume-CV-0d1ebbae7a6041aebcbacf5c8fd5c141) of the GeekForce page.
+- [ ] Read the [Resume section](https://4geeksacademy.notion.site/Resume-CV-0d1ebbae7a6041aebcbacf5c8fd5c141) of the GeekForce page.
 
-- [ ] Check these  [2 resume templates ](https://www.notion.so/4geeksacademy/Resume-Templates-CV-Templates-7e72180d5f274276b7ee5614b1df86a2).
+- [ ] Check these  [2 resume templates ](https://4geeksacademy.notion.site/Resume-Templates-CV-Templates-7e72180d5f274276b7ee5614b1df86a2).
 
 - [ ] Get into  [flowcv.io](https://app.flowcv.com/), create an account. Make sure to save your username and password.
 
@@ -47,7 +47,7 @@ Please read carefully the following task list and mark the checkboxes as you com
 
 - [ ] **LinkedIn Link** (you can customize your LinkedIn URL, check how to do it  [here](https://www.linkedin.com/help/linkedin/answer/a542685/manage-your-public-profile-url?lang=en) ).
 
-- [ ] **Email**(avoid non-professional email addresses).
+- [ ] **Email** (avoid non-professional email addresses).
 
 - [ ] **Phone number**.
 
@@ -61,17 +61,17 @@ Please read carefully the following task list and mark the checkboxes as you com
 
 ### Projects
 
-- [ ] **Project title** Example:  JobBots, Job Search App.
+- [ ] **Project title** Example: JobBots, Job Search App.
 
 - [ ] **Time frame** 
 * Mention the years or months you worked on that project.
 * Add the years or months you were employed at the company.
 
-- [ ] **Brief description** - what the project is about, what you did, and the functionalities.
+- [ ] **Brief description** of what the project is about, what you did, and the functionalities.
 
 - [ ] Mention de **main technologies** - you used to build the project.
 
-- [ ] If possible, **add the link** - so recruiters can check out the project directly.
+- [ ] If possible, **add the link** so recruiters can check out the project directly.
 
 ### Professional experience
 
@@ -93,7 +93,7 @@ Please read carefully the following task list and mark the checkboxes as you com
 
 * Most impactful bullets first for each job.
 
- **If you were promoted**.
+ **If you were promoted**
 
 - [ ] Add the job position you were promoted to and the main duties.
 
