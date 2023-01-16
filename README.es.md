@@ -99,8 +99,7 @@ Lee atentamente la siguiente lista de tareas y marca las casillas de verificaci�
 - [ ] Título
 * Nombre de la institución.
 * Menciona el tipo de título que obtuviste(asociado, bachiller, etc.) y el nombre de la institución.
-
-- [ ] Agrega cursos relevantes (álgebra, matemáticas, informática).
+* Agrega cursos relevantes (álgebra, matemáticas, informática).
 
 - [ ] Agrega los cursos certificados que hayas realizado (Ej: Photoshop).
 
