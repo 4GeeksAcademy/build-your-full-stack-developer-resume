@@ -43,7 +43,7 @@ Please read carefully the following task list and mark the checkboxes as you com
 
 - [ ] **Github Link**.
 
-- [ ] **LinkedIn Link**(you can customize your LinkedIn URL, check how to do it  [here](https://www.linkedin.com/help/linkedin/answer/a542685/manage-your-public-profile-url?lang=en) ).
+- [ ] **LinkedIn Link**(customize your LinkedIn URL, check how to do it  [here](https://www.linkedin.com/help/linkedin/answer/a542685/manage-your-public-profile-url?lang=en) ).
 
 - [ ] **Email**(avoid non-professional email addresses).
 
@@ -103,7 +103,7 @@ Please read carefully the following task list and mark the checkboxes as you com
 
 - [ ] Add relevant courses (algebra, mathematics, computer science).
 
-- [ ] Add the certified courses you have done (Ex: Photoshop).
+- [ ] Add the certified courses you have done (Ex: SCRUM Master).
 
 - [ ] If you took advanced courses related to tech, you can mention them.
 
@@ -122,6 +122,7 @@ Please read carefully the following task list and mark the checkboxes as you com
 
 > _Example: English - Native_
 > _Example: Spanish - Fluent_
+> _Example: German - Basic_
 
 
 
