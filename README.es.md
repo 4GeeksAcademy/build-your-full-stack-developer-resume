@@ -22,7 +22,7 @@ Lee atentamente la siguiente lista de tareas y marca las casillas de verificaci�
 
 - [ ] 1 página como máximo (evita el desorden y agregar información no relevante).
 
-- [ ] SIN colores: el currículum debe ser en blanco y negro.
+- [ ] SIN colores: el currículum debe ser en blanco y negro. Si eres del campus de Chile, puedes agregar algúnos colores.
 
 - [ ] NO headshot.
 
@@ -38,13 +38,13 @@ Lee atentamente la siguiente lista de tareas y marca las casillas de verificaci�
 
 - [ ] **Nombre completo en la parte superior central de la página** - Agrega tu nombre y apellido.
 
-- [ ] **Título del trabajo: Desarrollador de Software** - Agrégalo debajo o al lado de tu nombre.
+- [ ] **Título del trabajo: Full Stack Developer** Agrégalo debajo o al lado de tu nombre.
 
-- [ ] **Dirección** - Agrega el país y el estado en el que vives (no más que esto).
+- [ ] **Dirección** Agrega el país en el que vives (no más que esto). Si eres del campus de Chile, no agregues tu dirección.
 
 - [ ] **Link de Github**.
 
-- [ ] **LinkedIn Link** - (puedes personalizar tu URL de LinkedIn, consulta cómo hacerlo [aquí](https://www.linkedin.com/help/linkedin/answer/a542685/manage-your-public-profile-url?lang=en) ).  
+- [ ] **LinkedIn Link** (personaliza tu URL de LinkedIn, consulta cómo hacerlo [aquí](https://www.linkedin.com/help/linkedin/answer/a542685/manage-your-public-profile-url?lang=en) )  
 
 - [ ] **Correo electrónico** (evita direcciones de correo electrónico no profesionales).
 
@@ -68,11 +68,12 @@ Lee atentamente la siguiente lista de tareas y marca las casillas de verificaci�
 
 - [ ] Mención de las **principales tecnologías** que utilizaste para construir el proyecto.
 
-- [ ] Si es posible, **agrega el enlace** para que los reclutadores puedan ver el proyecto directamente.
+- [ ] Agrega el enlace para que los reclutadores puedan ver el proyecto directamente.
+
 
 ### Experiencia profesional
 
-- [ ] **De más nuevo a más antiguo** - Menciona tu experiencia laboral de lo más nuevo a lo más antiguo (no más de 3).
+- [ ] **De más reciente a más antiguo** - Menciona tu experiencia laboral de lo más nuevo a lo más antiguo (no más de 3).
 
 - [ ] **Cargo** - Nombra el cargo que tuviste y el nombre de la empresa.
 
@@ -84,7 +85,7 @@ Lee atentamente la siguiente lista de tareas y marca las casillas de verificaci�
 
 * Describe brevemente lo que hiciste para que los reclutadores tengan una idea de lo que puedes hacer.
 
-* Menciona al menos dos impactos o logros medibles por función: concéntrate más en las métricas que mejoras y menos en las responsabilidades de tu función.
+* Menciona al menos dos impactos o logros medibles por función: concéntrate más en las métricas que mejoraste y menos en las responsabilidades de tu función.
 
 * Trata de mantener las viñetas de 1 a 2 líneas de largo.
 
@@ -96,12 +97,15 @@ Lee atentamente la siguiente lista de tareas y marca las casillas de verificaci�
 
 ### Educación 
 
-- [ ] Título
-* Nombre de la institución.
-* Menciona el tipo de título que obtuviste(asociado, bachiller, etc.) y el nombre de la institución.
-* Agrega cursos relevantes (álgebra, matemáticas, informática).
+- [ ] **Título** - Nombre de la institución
 
-- [ ] Agrega los cursos certificados que hayas realizado (Ej: Photoshop).
+* Menciona el tipo de título que obtuviste (asociado, licenciatura, etc.) y el nombre de la institución.
+
+- [ ] **Periodo de Tiempo** - Añade la fecha de inicio y finalización de tu carrera.
+
+- [ ] **Certificaciones**
+
+* Agrega los cursos certificados que hayas realizado (Ej: SCRUM Master).
 
 - [ ] Si tomaste cursos avanzados relacionados con la tecnología, puedes mencionarlos.
 
@@ -111,11 +115,13 @@ Lee atentamente la siguiente lista de tareas y marca las casillas de verificaci�
 
 - [ ] Menciona los lenguajes de programación, las tecnologías y las herramientas que conoces.
 
-- [ ] Cuando agregues las tecnologías en la sección Habilidades, agrégalas en diferentes entradas.
+- [ ] Cuando agregues las tecnologías en la sección habilidades, agrégalas en diferentes entradas o viñetas.
 
-### Languajes
+### Idiomas
 
-- [ ] **Añade el lenguaje que hablas**
+- [ ] **Añade el idioma que hablas**
 
 > _Ejemplo: Inglés - Nativo_
 > _Ejemplo: Español - Fluido_
+> _Ejemplo: Alemán - Intermedio_
+> _Ejemplo: Portugués - Básico_
