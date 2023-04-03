@@ -24,7 +24,7 @@ Lee atentamente la siguiente lista de tareas y marca las casillas de verificaci�
 
 - [ ] SIN colores: el currículum debe ser en blanco y negro. Si eres del campus de Chile, puedes agregar algúnos colores.
 
-- [ ] NO headshot.
+- [ ] Es preferible que no coloques foto.
 
 ### Fuente
 
@@ -32,7 +32,6 @@ Lee atentamente la siguiente lista de tareas y marca las casillas de verificaci�
 
 - [ ] El nombre y los títulos pueden ser más grandes. 
 
-- [ ] Margenes.
 
 ### Información de Contacto
 
@@ -50,11 +49,13 @@ Lee atentamente la siguiente lista de tareas y marca las casillas de verificaci�
 
 - [ ] **Número Telefónico**.
 
-- [ ] **Descríbete brevemente** - No más de 4 oraciones. Habla sobre quién eres, tus habilidades y lo que puedes hacer con esas habilidades. Trata la sección de "perfil" como un discurso sobre ti, recuerda que eres un Desarrollador de Software.
+### Perfil
 
-- [ ] **Describe brevemente tus antecedentes** - ¿Qué te interesa?, tu experiencia previa.
+- [ ] **Descríbete brevemente** - No más de 4 oraciones. Habla sobre quién eres, tus habilidades blandas y lo que puedes hacer con esas habilidades. Trata la sección de "perfil" como un discurso sobre ti, recuerda que eres un Desarrollador de Software.
+
+- [ ] **Describe brevemente tus antecedentes/background** - ¿Qué te interesa?, tu experiencia previa.
 	
-- [ ] **Habilidades** - Menciona las tecnologías que conoces y describe brevemente lo que puedes hacer con ese conocimiento. 
+- [ ] **Habilidades Técnicas** - Menciona las tecnologías que conoces y describe brevemente lo que puedes hacer con ese conocimiento. 
 
 ### Proyectos
 
@@ -81,7 +82,7 @@ Lee atentamente la siguiente lista de tareas y marca las casillas de verificaci�
 
 - [ ] **Deberes de trabajo**
 
-* Menciona tus deberes laborales en viñetas.
+* Menciona tus deberes laborales en 3-5 viñetas o bulletpoint.
 
 * Describe brevemente lo que hiciste para que los reclutadores tengan una idea de lo que puedes hacer.
 
