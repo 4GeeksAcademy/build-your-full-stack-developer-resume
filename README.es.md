@@ -4,17 +4,16 @@
 
 El currículum es, por mucho, el documento más importante que necesitas al solicitar un trabajo. Es la forma principal de mostrar tus habilidades y experiencia. Aunque es posible que ya tengas un currículum regular, es importante adaptarlo a un puesto de desarrollador de Full Stack y resaltar tus habilidades técnicas y los aspectos clave de tus calificaciones. Ten en cuenta que incluso si no tienes experiencia en tecnología, hay muchas habilidades transferibles que se pueden mostrar en tu currículum. Un buen currículum te ayudará a destacarte de la competencia y, en última instancia, te ayudará a conseguir entrevistas. 
 
+## Mira este video ⬇️ ##
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Mc9Ps3Ma054" target="_blank">
+ <img src="http://img.youtube.com/vi/Mc9Ps3Ma054/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="10" />
+</a>
+
 ## 📝 Instrucciones para construir tu currículum
 
 Lee atentamente la siguiente lista de tareas y marca las casillas de verificación a medida que las completes:
 
-- [ ] Lee la [sección de currículum](https://4geeksacademy.notion.site/Resume-CV-0d1ebbae7a6041aebcbacf5c8fd5c141) de la página de GeekForce.
-
-- [ ] Verifica estas [2 plantillas de currículum](https://4geeksacademy.notion.site/Resume-Templates-CV-Templates-7e72180d5f274276b7ee5614b1df86a2).
-
 - [ ] Entra en [flowcv.io](https://app.flowcv.com/), crea una cuenta. Asegúrate de guardar tu nombre de usuario y contraseña.
- 
-- [ ] Lee atentamente [esta lección](https://4geeks.com/es/lesson/making-an-amazing-resume-es) y comienza a crear tu currículum aplicando las recomendaciones.
 
 ### Diseño
 
@@ -37,13 +36,13 @@ Lee atentamente la siguiente lista de tareas y marca las casillas de verificaci�
 
 - [ ] **Nombre completo en la parte superior central de la página** - Agrega tu nombre y apellido.
 
-- [ ] **Título del trabajo: Full Stack Developer** Agrégalo debajo o al lado de tu nombre.
+- [ ] **Título del trabajo: Full Stack Software Developer** Agrégalo debajo o al lado de tu nombre.
 
 - [ ] **Dirección** Agrega el país en el que vives (no más que esto). Si eres del campus de Chile, no agregues tu dirección.
 
 - [ ] **Link de Github**.
 
-- [ ] **LinkedIn Link** (personaliza tu URL de LinkedIn, consulta cómo hacerlo [aquí](https://www.linkedin.com/help/linkedin/answer/a542685/manage-your-public-profile-url?lang=en) )  
+- [ ] **Link de LinkedIn** (personaliza tu URL de LinkedIn, consulta cómo hacerlo [aquí](https://www.linkedin.com/help/linkedin/answer/a542685/manage-your-public-profile-url?lang=en) )  
 
 - [ ] **Correo electrónico** (evita direcciones de correo electrónico no profesionales).
 
@@ -74,7 +73,7 @@ Lee atentamente la siguiente lista de tareas y marca las casillas de verificaci�
 
 ### Experiencia profesional
 
-- [ ] **De más reciente a más antiguo** - Menciona tu experiencia laboral de lo más nuevo a lo más antiguo (no más de 3).
+- [ ] **De más reciente a más antigua** - Menciona tu experiencia laboral de lo más nuevo a lo más antiguo (no más de 3).
 
 - [ ] **Cargo** - Nombra el cargo que tuviste y el nombre de la empresa.
 
@@ -82,7 +81,7 @@ Lee atentamente la siguiente lista de tareas y marca las casillas de verificaci�
 
 - [ ] **Deberes de trabajo**
 
-* Menciona tus deberes laborales en 3-5 viñetas o bulletpoint.
+* Menciona tus deberes laborales en 3-5 viñetas o bulletpoints.
 
 * Describe brevemente lo que hiciste para que los reclutadores tengan una idea de lo que puedes hacer.
 
