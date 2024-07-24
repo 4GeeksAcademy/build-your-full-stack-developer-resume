@@ -1,8 +1,8 @@
 <!--hide-->
-# Crea tu currículum de desarrollador Full Stack / Data Scientist
+# Crea tu currículum IT
 <!--endhide-->
 
-El currículum es, por mucho, el documento más importante que necesitas al solicitar un trabajo. Es la forma principal de mostrar tus habilidades y experiencia. Aunque es posible que ya tengas un currículum regular, es importante adaptarlo a un puesto de desarrollador de Full Stack y resaltar tus habilidades técnicas y los aspectos clave de tus calificaciones. Ten en cuenta que incluso si no tienes experiencia en tecnología, hay muchas habilidades transferibles que se pueden mostrar en tu currículum. Un buen currículum te ayudará a destacarte de la competencia y, en última instancia, te ayudará a conseguir entrevistas. 
+El currículum es, por mucho, el documento más importante que necesitas al solicitar un trabajo. Es la forma principal de mostrar tus habilidades y experiencia. Aunque es posible que ya tengas un currículum regular, es importante adaptarlo al puesto al que estas aplicando resaltar tus habilidades técnicas y los aspectos clave de tus calificaciones. Ten en cuenta que incluso si no tienes experiencia en tecnología, hay muchas habilidades transferibles que se pueden mostrar en tu currículum. Un buen currículum te ayudará a destacarte de la competencia y, en última instancia, te ayudará a conseguir entrevistas. 
 
 ## 📝 Instrucciones para construir tu currículum
 
@@ -37,7 +37,7 @@ Lee atentamente la siguiente lista de tareas y marca las casillas de verificaci�
 
 - [ ] **Nombre en la parte superior central de la página** - Agrega tu nombre y apellido.
 
-- [ ] **Título del trabajo: Full Stack Developer / Data Scientist** Agrégalo debajo o al lado de tu nombre.
+- [ ] **Título del trabajo: Full Stack Developer / Data Scientist / Analista de Ciberseguridad** Agrégalo debajo o al lado de tu nombre.
 
 - [ ] **Dirección** Agrega la ciudad y el país en el que vives. Si eres del campus de **Chile**, no agregues tu dirección.
 
@@ -57,6 +57,8 @@ Lee atentamente la siguiente lista de tareas y marca las casillas de verificaci�
 
 > _Ejemplo: Científico de datos entusiasta con gran interés en la utilización de la tecnología para innovar y aumentar la eficiencia. Hábil en análisis de datos, automatización con Python, y SQL, análisis estadísticos, con un historial probado de éxito tanto en entornos educativos como técnicos._
 
+> _Ejemplo: Analista de ciberseguridad diligente y analítico con un fuerte compromiso con la protección de los activos organizacionales contra amenazas digitales. Competente en la evaluación de amenazas, respuesta a incidentes y gestión de riesgos, con experiencia práctica en seguridad de redes, evaluación de vulnerabilidades y herramientas SIEM. Con un gran ojo para los detalles y un enfoque proactivo, destaco en la identificación y mitigación de riesgos de seguridad, asegurando la integridad y confidencialidad de la información sensible._
+
 ### Tecnologías
 
 - [ ] Menciona los lenguajes de programación, las tecnologías y las herramientas que conoces.
@@ -67,10 +69,9 @@ Es recomendable colocar al menos 2 proyectos. Uno de los proyectos puede ser el 
 
 - [ ] **Título del proyecto** - Ejemplo: JobBots, aplicación de búsqueda de empleo.
 
-- [ ] **Periodo de tiempo**
-* Menciona el año en el trabajaste en este proyecto
+- [ ] **Periodo de tiempo** Menciona el año en el trabajaste en este proyecto
 
-- [ ] **Breve descripción** de qué se trata el proyecto, qué hiciste y las funcionalidades.
+- [ ] **Breve descripción** de qué se trata el proyecto, qué hiciste, su rendimiento y las funcionalidades.
 
 - [ ] Mención de las **principales tecnologías** que utilizaste para construir el proyecto.
 
@@ -87,7 +88,7 @@ Es recomendable colocar al menos 2 proyectos. Uno de los proyectos puede ser el 
 
 - [ ] **Deberes de trabajo**
 
-* Menciona tus deberes laborales en 3-5 viñetas o bulletpoint.
+* Menciona tus deberes laborales en 3-5 viñetas o bulletpoints.
 
 * Describe brevemente lo que hiciste para que los reclutadores tengan una idea de lo que puedes hacer.
 
@@ -106,19 +107,14 @@ Es recomendable colocar al menos 2 proyectos. Uno de los proyectos puede ser el 
 - [ ] **Título** - Nombre de la institución
 
 * Menciona el tipo de título que obtuviste (asociado, licenciatura, etc.) y el nombre de la institución.
+>_Ejemplo: Licenciatura en psicología - Universidad Metropolitana_
 
-- [ ] **Periodo de Tiempo** - Añade la fecha de inicio y finalización de tu carrera.
+>_Ejemplo: Certificación en Desarrollo Web Full STack - 4Geeks Academy_
 
-- [ ] **Certificaciones**
+- [ ] **Certificaciones** - Agrega los cursos certificados que hayas realizado (Ej: SCRUM Master).
 
-* Agrega los cursos certificados que hayas realizado (Ej: SCRUM Master).
+- [ ] **Período de tiempo** - Agrega la fecha de inicio y finalización de tus estudios.
 
-- [ ] Si tomaste cursos avanzados relacionados con la tecnología, puedes mencionarlos.
-
-- [ ] **Período de tiempo** - Agrega la fecha de inicio y finalización de tu carrera.
-
-
-- [ ] Cuando agregues las tecnologías en la sección habilidades, agrégalas en diferentes entradas o viñetas.
 
 ### Idiomas
 
