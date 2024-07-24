@@ -2,7 +2,7 @@
 # Build Your Full Stack Developer Resume
 <!--endhide--> 
 
-The resume is by far the most important document that you need when applying for jobs. It's the primary way to showcase your skills and experience. Although you might already have a regular resume, it is important to tailor it to a full stack developer position and highlight your technical skills and key aspects of your qualifications. Bear in mind that even if you do not have a background in tech, there are plenty of transferable skills that can be showcased within your resume. A good resume will help you stand out from the competition and ultimately help you land interviews. 
+The resume is by far the most important document that you need when applying for jobs. It's the primary way to showcase your skills and experience. Although you might already have a regular resume, it is important to tailor it to an IT position and highlight your technical skills and key aspects of your qualifications. Bear in mind that even if you do not have a background in tech, plenty of transferable skills can be showcased within your resume. A good resume will help you stand out from the competition and ultimately help you land interviews. 
 
 ## 📝 Instructions to build your resume
 
@@ -32,13 +32,11 @@ Please read carefully the following task list and mark the checkboxes as you com
 
 - [ ] Names and titles can be larger.
 
-- [ ] Margins.
-
 ### Contact Section
 
 - [ ] **Full name in the top center of the page** - Add your name and last name.
 
-- [ ] **Job Title: Software Developer** - Add it below or at the side of your name.
+- [ ] **Job Title: Software Developer / Data Scientist / Cybersecurity Analyst** - Add it below or at the side of your name.
   
 - [ ] **Address** - Add the country, and the state you live in (no more than this).
 
@@ -52,21 +50,32 @@ Please read carefully the following task list and mark the checkboxes as you com
 
 ### Profile 
 
-- [ ] **Describe yourself briefly** - No longer than 4 sentences. Talk about who you are, your skills and what you can do with those skills. Treat the“profile” section as a pitch about yourself, remember you are a Software Developer.
+- [ ] **Describe yourself briefly** - No longer than 4 sentences. Talk about who you are, your skills, and what you can do with those skills. Treat the“profile” section as a pitch about yourself.
 
-- [ ] **Describe your background briefly** - What are you interested in, your previous experience?
+- [ ] **Describe your background briefly** - What are you interested in, and what is your previous experience?
 
-- [ ] **Skills** - Mention the technologies you know and describe what you can do with that knowledge briefly. 
+- [ ] **Skills** - Mention the technologies you know and briefly describe what you can do with that knowledge.
+
+>_Example:  Motivated and resourceful full-stack developer with a passion for creating user-centric web applications. Experienced in JavaScript, React, SQL-Alchemy, and SCRUM to navigate the complexities of modern software development. With my interest in continuous learning and dedication to quality, I am a valuable asset to any team looking for innovative software solutions._
+
+>_Example:  Enthusiastic data scientist with a strong interest in using technology to innovate and increase efficiency. Skilled in data analysis, automation with Python, and SQL, and statistical analysis, with a proven track record of success in both educational and technical environments._
+
+>_Example: Analytical cybersecurity analyst with a strong commitment to protecting organizational assets from digital threats. Proficient in threat assessment, incident response, and risk management, with hands-on experience in network security, vulnerability assessment, and SIEM tools. With a keen eye for detail and a proactive approach, I excel at identifying and mitigating security risks and ensuring the integrity and confidentiality of sensitive information._
+
+### Technologies
+
+- [ ] Mention the programming languages, technologies, and tools you know.
+
+- [ ] When you add the technologies in the Skills section, add them in different entries. 
 
 ### Projects
+Add at least 2 projects. One of the projects can be the final project of 4Geeks.
 
 - [ ] **Project title** Example: JobBots, Job Search App.
 
-- [ ] **Time frame** 
-* Mention the years or months you worked on that project.
-* Add the years or months you were employed at the company.
+- [ ] **Time frame** Mention the years or months you worked on that project.
 
-- [ ] **Brief description** of what the project is about, what you did, and the functionalities.
+- [ ] **Brief description** of what the project is about, what you did, performance and the functionalities.
 
 - [ ] Mention de **main technologies** - you used to build the project.
 
@@ -101,6 +110,9 @@ Please read carefully the following task list and mark the checkboxes as you com
 - [ ] Degree 
 * Name of the institution.
 * Mention the type of degree you got (associate, bachelor, etc) and the name of the institution.
+>_Bachelor's degree in Science - Harvard University_
+
+>_Full Stack Software Development Certificate - 4Geeks Academy_
 
 - [ ] Add relevant courses (algebra, mathematics, computer science).
 
@@ -109,13 +121,6 @@ Please read carefully the following task list and mark the checkboxes as you com
 - [ ] If you took advanced courses related to tech, you can mention them.
 
 - [ ] **Time frame** - Add the start and end date of your degree.
-
-
-### Technologies
-
-- [ ] Mention the programming languages, technologies, and tools you know.
-
-- [ ] When you add the technologies in the Skills section, add them in different entries. 
 
 ### Languages 
 
