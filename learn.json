@@ -1,20 +1,29 @@
 {
 	"slug" : "build-your-full-stack-developer-resume",
-	"title" : "Build Your Full Stack Developer Resume",
+	"title" : {
+		"us":"Build Your Full Stack Developer Resume",
+		"es":"Construye tu currículum de desarrollador Full Stack"
+	},
 	"preview": "https://github.com/4GeeksAcademy/build-your-full-stack-developer-resume/blob/main/preview.png?raw=trueg",
 	"status": "draft",
 	"translations": ["us"],
-	"technologies": ["resume-building", "resume"],
+	"technologies": ["resume-building", "reactjs", "git"],
 	"difficulty": "beginner",
 	"syntax": "markdown",
 	"duration" : 3,
     "projectType": "project",
-	"description" : "Build a Full Stack Developer Resume to showcase your skills, stand out from the crowd and land interviews",
+	"description" : {
+		"us":"Master the art of crafting a standout full stack developer resume! Learn essential tips and templates to showcase your skills and land your dream job.",
+		"es":"Domina el arte de elaborar un currículum de desarrollador full stack sobresaliente. Aprende consejos esenciales y plantillas para mostrar tus habilidades y conseguir el trabajo de tus sueños."
+	},
 	"delivery": {
 		"instructions": {
 			"us": "Please drag your finished resume as a PDF file and upload it here",
 			"es": "Porfavor adjunta tu resume/CV listo y como archivo PDF"
 		},
-		"formats": ["application/pdf"]
+		"formats": ["application/pdf"],
+		"telemetry": {
+	    	"batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry?asset_id=488"
+	  }
 	}
 }
