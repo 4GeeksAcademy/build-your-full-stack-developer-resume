@@ -1,5 +1,5 @@
 <!--hide-->
-# Build Your Full Stack Developer Resume
+# Build Your IT Resume
 <!--endhide--> 
 
 The resume is by far the most important document that you need when applying for jobs. It's the primary way to showcase your skills and experience. Although you might already have a regular resume, it is important to tailor it to an IT position and highlight your technical skills and key aspects of your qualifications. Bear in mind that even if you do not have a background in tech, plenty of transferable skills can be showcased within your resume. A good resume will help you stand out from the competition and ultimately help you land interviews. 
